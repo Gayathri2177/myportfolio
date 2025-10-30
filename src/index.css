@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* custom */
+:root {
+  --accent: #06b6d4; /* cyan */
+}
+.dark {
+  --bg: #0b1220;
+  --card: #0f1724;
+  --text: #e6eef8;
+}
+:root {
+  --bg: #f8fafc;
+  --card: #ffffff;
+  --text: #0f1724;
+}
+
+body {
+  background-color: var(--bg);
+  color: var(--text);
+}
