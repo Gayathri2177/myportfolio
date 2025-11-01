@@ -22,7 +22,7 @@ const Home2 = () => {
       <div className="absolute w-16 h-16 bg-[#ff6584] rounded-full opacity-20 animate-pulse bottom-20 right-20"></div>
 
       <div className="z-10 text-center px-6">
-        <h1 className="text-5xl font-playfair mb-4">Gayathri Peddi</h1>
+        <h1 className="text-5xl font-playfair mb-4">Peddi Gayathri</h1>
         <h2 className="text-2xl font-medium mb-6">Java Full Stack Developer</h2>
         <p className="text-lg italic">{text}</p>
         <div className="mt-6">
