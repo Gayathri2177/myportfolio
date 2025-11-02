@@ -33,7 +33,7 @@ const Footer = () => {
       </div>
 
       <p className="text-sm text-[#8a7f7f] font-poppins">
-        © {new Date().getFullYear()} Your Name | Built with ☕ & Passion
+        © {new Date().getFullYear()} Peddi Gayathri | Built with Creativity & Passion
       </p>
     </footer>
   );
