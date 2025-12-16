@@ -19,7 +19,7 @@ const Contact = () => {
      <div className="w-full max-w-xl bg-[#d9b8ae] shadow-[0_0_25px_rgba(150,120,110,0.35)] 
                 p-10 rounded-2xl border border-[#b99e95]">
         <form
-          action="https://formspree.io/f/mkgwazny"
+          action="https://formspree.io/f/mblppzbw"
           method="POST"
           className="space-y-5"
           onSubmit={(e) => {
