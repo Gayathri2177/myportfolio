@@ -7,9 +7,9 @@ const projects = [
     link: "https://portfoliobloggg.netlify.app/", // replace with your actual portfolio link
   },
   {
-    name: "Course Registration (Bootstrap Project)",
-    tech: "HTML, CSS, Bootstrap, JS",
-    link: "https://your-bootstrap-project-link.netlify.app", // replace with your actual project link
+    name: "TaskNest (React Project)",
+    tech: "HTML, CSS, Bootstrap, React JS, Vite",
+    link: "https://tasknestttt.netlify.app/", // replace with your actual project link
   },
   { name: "Coming Soon", tech: "..." },
   { name: "Coming Soon", tech: "..." },
