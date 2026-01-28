@@ -7,7 +7,7 @@ const Footer = () => {
     >
       <div className="flex justify-center gap-6 mb-2">
         <a
-          href="https://github.com/yourusername"
+          href="https://github.com/Gayathri2177"
           target="_blank"
           rel="noopener noreferrer"
           className="text-2xl hover:text-[#e7bfa5] transition-colors duration-300"
@@ -16,7 +16,7 @@ const Footer = () => {
         </a>
 
         <a
-          href="https://linkedin.com/in/yourusername"
+          href="https://linkedin.com/in/peddi-gayathri-53406922a"
           target="_blank"
           rel="noopener noreferrer"
           className="text-2xl hover:text-[#b4c8a7] transition-colors duration-300"
@@ -25,7 +25,7 @@ const Footer = () => {
         </a>
 
         <a
-          href="mailto:your@email.com"
+          href="mailto:peddigayathri89@email.com"
           className="text-2xl hover:text-[#cfa9a9] transition-colors duration-300"
         >
           <i className="fas fa-envelope"></i>
